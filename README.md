@@ -6,6 +6,7 @@ If user finds the right answer score label increases but if user cannot finds th
 
 
 Here is a demo video!
-https://user-images.githubusercontent.com/99825672/174067072-501927f7-e602-4cfe-b965-74604470d509.mp4
 
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99825672/174664848-ca18f28a-7386-4cc5-8578-5ad204ed5952.gif
 
