@@ -1,5 +1,5 @@
 # iOS-Quizzler-App
-This is my repo for iOS Quizzler App
+This is my repo for iOS Quizzler App with MVC Design Pattern
 When user finds the right answer button turns to green but when user cannot finds the right answer button turns to red
 If user finds the right answer score label increases but if user cannot finds the right answer score label is constant
 
